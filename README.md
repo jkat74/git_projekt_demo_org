@@ -5,7 +5,8 @@ Rubriker fungerar som HTML H1 till H6
 Vanlig Text med *kursiverad text* och ***fet text***.
 
 Markdown förstår html
-Så vi kan använda <span style="color:blue">span</span> för att färglägga 
+Så vi kan använda exempelvis  \<span style="color:blue">span</span> för att färglägga 
+
 Oordnad Punktlista
 - Punkt 1
 - Punkt 2
@@ -32,10 +33,10 @@ Kod ska vara intenderad med minst 1 tab eller 4 mellanslag.
 En linj görs med 3 streck
 ---
 
-Länkar görs med [länktext](URL)
+Länkar görs med \[länktext](URL)
 
 Exemeplvis [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
-Bilder ![Bildtext](/sökväg bildfil)
+Bilder \![Bildtext](/sökväg bildfil)
 ![javascript logo](/javascript.jpg)
 
