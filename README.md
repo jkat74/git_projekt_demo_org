@@ -9,29 +9,30 @@ Markdown förstår html
 Så vi kan använda exempelvis  \<span style="color:blue">span</span> för att färglägga 
 
 Oordnad Punktlista ges - framför ordet
+
 \- Punkt 1
 
 \- Punkt 2
 
 \- Punkt 3
 
-	\- Punkt 3a
+	- Punkt 3a
 
-	\- Punkt 3b
+	- Punkt 3b
 
 \- Punkt 4
 
 Ordnad Punktlista anges med siffra och punkt ex 1.
 
-\1. Punkt 1
+1. Punkt 1
 
-\2. Punkt 2
+2. Punkt 2
 
-\3. Punkt 3
+3. Punkt 3
 
-	\- Punkt 3a
+	- Punkt 3a
 
-\4. Punkt 4
+4. Punkt 4
 
 Kod ska vara intenderad med minst 1 tab eller 4 mellanslag.
 
