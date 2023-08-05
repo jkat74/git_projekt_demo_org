@@ -7,6 +7,7 @@ Vanlig Text med *kursiverad text* och ***fet text***.
 
 Markdown förstår html
 Så vi kan använda exempelvis  \<span style="color:blue">span</span> för att färglägga 
+<span style="color:blue">some *blue* text</span>
 
 Oordnad Punktlista ges - framför ordet
 
